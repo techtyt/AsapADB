@@ -1,9 +1,11 @@
 # AsapADB
 The fastest adb installer?
 
-# Note
+# Notes
 - **I am not responsible for any damages caused**
 - You can check the code if you want to
+- Tested on new Windows 11 install
+- If you face any problem, put it in issues, I'll try my best to solve it
 
 # System requirments
 - Windows 10 build 10763/above or any Windows 11 version
