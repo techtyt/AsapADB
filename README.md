@@ -2,7 +2,7 @@
 The fastest adb installer?
 **Please read this till the last line**
 
-#Features
+# Features
 - Wicked fast, ~5 sec to download and install
 - Downloads latest adb release
 - super small script
