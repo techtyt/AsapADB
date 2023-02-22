@@ -6,9 +6,9 @@ The fastest adb installer?
 - You can check the code if you want to
 
 # System requirments
--Windows 10 build 10763/above or any Windows 11 version
--If you are from the distinct future, maybe Windows 12/13/14 is supported
--Internet connection
+- Windows 10 build 10763/above or any Windows 11 version
+- If you are from the distinct future, maybe Windows 12/13/14 is supported
+- Internet connection
  
 # Tutorial
    1. connect to the internet
