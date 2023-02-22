@@ -1,4 +1,4 @@
-# AsapADB
+# AsapADB Installer
 The fastest adb installer?
 
 # Notes
