@@ -1,5 +1,4 @@
 # AsapADB Installer
-Sorry, needs urgent update, will come back in a few min
 The fastest adb installer?
 - **Please read this till the last line**
 - XDA Thread: https://forum.xda-developers.com/t/hyperfast-adb-installer.4557043/
