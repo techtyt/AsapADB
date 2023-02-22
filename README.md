@@ -1,7 +1,7 @@
 # AsapADB Installer
 The fastest adb installer?
-**Please read this till the last line**
-XDA Thread: https://forum.xda-developers.com/t/hyperfast-adb-installer.4557043/
+- **Please read this till the last line**
+- XDA Thread: https://forum.xda-developers.com/t/hyperfast-adb-installer.4557043/
 
 # Features
 - Wicked fast, ~5 sec to download and install
