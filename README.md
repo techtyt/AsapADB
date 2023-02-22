@@ -1,6 +1,11 @@
 # AsapADB Installer
 The fastest adb installer?
+**Please read this till the last line**
 
+#Features
+- Wicked fast, ~5 sec to download and install
+- Downloads latest adb release
+- super small script
 # Notes
 - **I am not responsible for any damages caused**
 - You can check the code if you want to
