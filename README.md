@@ -3,7 +3,7 @@ The fastest adb installer?
 - **Please read this till the last line**
 - XDA Thread: https://forum.xda-developers.com/t/hyperfast-adb-installer.4557043/
 
-#THIS IS VERY BUGGY. ONLY USE THIS IN A VM, OR IF YOU CAN FIX IT
+# THIS IS VERY BUGGY. ONLY USE THIS IN A VM, OR IF YOU CAN FIX IT
 ## Features
 - Wicked fast, ~5 sec to download and install
 - Downloads latest adb release
